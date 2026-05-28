@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "logo") (type "KiCad") (uri "/home/razen/projects/keebs/keyboards/src/pinboard/logo.pretty") (options "") (descr ""))
+)
