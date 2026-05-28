@@ -24,4 +24,4 @@ Read up on the layout itself at <https://grahp.dev/pinchord> before you start ty
 
 ## Building one
 
-Send the gerbers (see the releases page) off to your fab of choice. Once the boards are back, solder on the RP2040-Zero and the hotswap sockets, then snap in your switches and keycaps.
+Send the gerbers (see [the releases page](https://github.com/r4zendev/pinboard/releases/)) off to your fab of choice. Once the boards are back, solder on the RP2040-Zero and the hotswap sockets, then snap in your switches and keycaps.
