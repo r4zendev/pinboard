@@ -8,8 +8,7 @@ Pinchord is a chording system where you press a few keys at the same time to spe
 
 ## Specs
 
-- Support for both Kailh Choc v1 and v2 switches
-- Current version is hotswap only
+- Support for both Kailh Choc v1 and v2 switches, with both hand-soldering and hotswap sockets supported
 - Cheap RP2040-Zero MCU
 - Direct wiring (no diodes) with the help of using RP2040-Zero's pad pins on the back of the board
 - Unibody PCB
